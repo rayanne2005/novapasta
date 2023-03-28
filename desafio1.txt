@@ -1,0 +1,17 @@
+1. Descreva o passo a passo de como cria um projeto até dar o push.
+1 passo: instalar o git, 2 passo: fazer login, 3 passo:colocar nome no repositório, 4 passo: criar repositório, 5 passo: copiar código, 6 passo: colocar o código no visual studio code, 7 passo: dar push no git.
+
+2. Por que usar a tomada de decisão baseada em dados?
+baseado em dados se torna mais certo, eficiente e com embasamento conciso.
+
+3. Em que fase do processo de análise o analista cria visualização de dados e uma apresentação de slides?
+na parte de compartilhar e monstrar o seu projeto.
+
+4. Qual a diferença entre dados quantitativos e qualitativos?
+os quantitativos visam coletar números concretos, medidas específicas.
+os qualitativos visam mais opinião do público consumidor, impressões.
+
+5. Faça um resumo sobre o que aprendeu do workshop de Introdução a análise de dados, pode ser em apenas um parágrafo ou no máximo 15 linhas
+aprendi sobre a importância do analista de dados, o que ele faz e como é executado o trabalho.
+os parâmetros necessários como: planejamento, coleta e armazenamento dos dados, tratar os dados e analisá-los, compartilhamento, tomada de decisão.
+a funcionalidade do git.
